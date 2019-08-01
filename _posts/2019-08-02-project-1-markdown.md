@@ -21,6 +21,6 @@ Oddly enough this data shows that Symmetra, Brigitte, and Torbjorn are on top 3 
 
 Interestingly, despite the fact that PC plays a lot different than Playstation and Xbox due to using mouse and keyboard vs. controllers, the data shows that all platforms show similar win rates among all the heroes. You would think there would be some differences in data between PC and the consoles but it doesnt.
 
-### Here is a thought, would the heroes with a higher "on fire" rate during the game correlate with higher win rates ? Not according to this graph.
+### Here is a thought, would the heroes with a higher "on fire" rate during the game correlate with a higher win rates ? Not according to this graph.
 [![graph4.png](https://i.postimg.cc/BQMkJ5rD/graph4.png)](https://postimg.cc/fJSBKdTT)
 Surprisingly, according to this data, heroes with a higher "on fire" rate doe not translate into win rates. This might be due to the fact that this game requires more teamwork among player to win rather than individual player's perfromance. 
