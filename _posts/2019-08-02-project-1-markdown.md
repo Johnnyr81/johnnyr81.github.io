@@ -9,7 +9,7 @@ Overwatch is a very popular FPS video game that was released in May 2016.  This 
 
 [![ovw.jpg](https://i.postimg.cc/QtrnfBrf/ovw.jpg)](https://postimg.cc/d74B1V3C)
 
-## Heroes vs Winrate
+## Heroes vs Win Rate
 ### Which heroes has the best win rate. You will be surprised according to this graph.
 [![graph1.png](https://i.postimg.cc/fRJrqfnW/graph1.png)](https://postimg.cc/DS368swR)
 
