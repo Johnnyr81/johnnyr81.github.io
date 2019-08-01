@@ -23,4 +23,4 @@ Interestingly, despite the fact that PC plays a lot different than Playstation a
 
 ### Here is a thought, would the heroes with a higher "on fire" rate during the game correlate with a higher win rates ? Not according to this data.
 [![graph4.png](https://i.postimg.cc/BQMkJ5rD/graph4.png)](https://postimg.cc/fJSBKdTT)
-Surprisingly, according to this data, heroes with a higher "on fire" rate doe not translate into win rates. This might be due to the fact that this game requires more teamwork among player to win rather than individual player's performance. 
+Surprisingly, according to this data, heroes with a higher "on fire" rate doe not translate into win rates. This might be due to the fact that this game requires more teamwork among players to win rather than individual player's performance. 
