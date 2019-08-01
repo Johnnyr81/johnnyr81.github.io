@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Project 1
-subtitle: Win rate analysis in Overwatch on April 22 2019
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+subtitle: Test
 comments: true
 ---
 
