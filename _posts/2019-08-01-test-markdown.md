@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test
-subtitle: Test
+title: Examples
+subtitle: Examples
 comments: true
 ---
 
