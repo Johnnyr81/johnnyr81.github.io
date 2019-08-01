@@ -15,7 +15,7 @@ Overwatch is a very popular FPS video game that was released in May 2016.  This 
 
 Oddly enough this data shows that Symmetra, Brigitte, and Torbjorn are on top 3 of the list. The is somewhat unexpected because it is pretty well known that at least Torbjorn and Symmetra are not the strongest heores in the game. Popular damage heroes Genji, Tracer, McCree are actually at the bottom of the list. This might be due to the fact that this dataset included the win rates from all game modes such as quick play and no limits where gamers play the game more casually. Another interesting thing is that the win rate does not vary too much between the heroes and only span from about 46% to 57.5%, showing you that no matter which hero you pick, the win rate will always hover around the middle.
 
-#### This graph shows the win rates of the heroes on different gaming platforms.
+#### Will playing on different gaming platforms show different win rates ?.
 
 [![graph3.png](https://i.postimg.cc/tTk0GRr9/graph3.png)](https://postimg.cc/47Y2zGk0)
 
