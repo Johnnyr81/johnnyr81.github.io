@@ -23,4 +23,5 @@ Interestingly, despite the fact that PC plays a lot different than Playstation a
 
 ### Here is a thought, would the heroes with a higher "on fire" rate during the game correlate with a higher win rates ? Not according to this data.
 [![graph4.png](https://i.postimg.cc/BQMkJ5rD/graph4.png)](https://postimg.cc/fJSBKdTT)
+
 Surprisingly, according to this data, heroes with a higher "on fire" rates doe not translate into a win rates. As you can see Reaper, Bastion, and Sombra were the top three heroes with best "on fire" rates as opposed to Symmmetra, Brigitte, and Torbjorn. This might be due to the fact that this game requires more teamwork among players to win rather than the individual player's performance. 
