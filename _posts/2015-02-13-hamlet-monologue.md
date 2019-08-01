@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Data Science Unit 1 Project 1
-Win rate analysis in Overwatch on April 22 2019
+subtitle: Win rate analysis in Overwatch on April 22 2019
+comments: true
 ---
 
-### Overwatch is a very popular FPS video game that was released in May 2016.  This project explores a dataset that was scraped on April 22, 2019.  I will explore the data on win rates of the heroes in the game.
+Overwatch is a very popular FPS video game that was released in May 2016.  This project explores a dataset that was scraped on April 22, 2019.  I will explore the data on win rates of the heroes in the game.
 
 ## Heroes vs Winrate
 ### Which heroes has the best win rate. You will be surprised according to this graph.
