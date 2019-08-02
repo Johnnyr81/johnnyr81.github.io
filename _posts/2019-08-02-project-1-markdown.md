@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science Unit 1 Project 1
-subtitle: Analysis of win rate in Overwatch on April 22, 2019
+subtitle: Win Rate Analysis of Overwatch on April 22, 2019
 comments: true
 ---
 
